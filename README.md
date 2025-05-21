@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Abubakar-Saeed0137
 - 👀 I’m interested in coding
 - 🌱 I’m currently studying computer science 
-- 💞️ I’m looking to collaborate on programming projects in c++ language
+- 💞️ I’m looking to collaborate on programming projects in C++
+- 💞️ I’m looking for an internship opportunity 
 - 📫 you can reach me at abubakarsaeed.0137@gmail.com
 
 <!---
