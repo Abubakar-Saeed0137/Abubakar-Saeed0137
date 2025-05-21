@@ -1,11 +1,36 @@
-- 👋 Hi, I’m @Abubakar-Saeed0137. I’m interested in coding. I’m currently studying computer science.
-- 📫 You can reach me at abubakarsaeed.0137@gmail.com
-- Coding in C++ but eager to learn more
-- Projects: Database of a music streaming service as a project in MySQL. Designed a water level detector in DLD as a project. Made an scientfic claculator in c++.
+# 👋 Hi, I’m @Abubakar-Saeed0137
 
+Welcome to my GitHub profile!
 
+## About Me
+- 🎓 I’m currently studying Computer Science.
+- ☁️ Interested in **Cloud Computing** technologies.
+- 💻 I’m interested in coding and eager to learn more programming languages and technologies.
+- 💬 Coding primarily in **C++**, but always open to expand my skillset.
 
-<!---
-Abubakar-Saeed0137/Abubakar-Saeed0137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Projects
+
+- **Music Streaming Service Database**
+  - Designed and implemented a database for a music streaming service using **MySQL**.
+
+- **Water Level Detector**
+  - Built a water level detector as part of a project in **Digital Logic Design (DLD)**.
+
+- **Scientific Calculator**
+  - Developed a scientific calculator application in **C++**.
+
+## Contact
+
+- 📫 Reach me at: [abubakarsaeed.0137@gmail.com](mailto:abubakarsaeed.0137@gmail.com)
+
+## Skills
+
+- C++
+- MySQL
+- Digital Logic Design basics
+- Cloud Computing (learning & exploring)
+
+---
+
+Thanks for visiting my profile! 🚀
+````
